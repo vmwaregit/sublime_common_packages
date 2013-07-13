@@ -1,0 +1,14 @@
+{
+	"font_face": "Source Code Pro",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80
+	],
+	"theme": "Nexus.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true
+}
