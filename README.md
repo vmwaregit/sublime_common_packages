@@ -12,3 +12,13 @@ This repositiory contains following package
 8. SublimeClang
 9. Theme - Nexus
 10. style-token-master
+
+SublimeClang need libcache.so and libclang.so, please also check [sublimeclang_prebuild](https://github.com/fuha/sublimeclang_prebuild.git)
+
+### install in osx
+please put cloned packages in ${HOME}/Library/Application\ Support/Sublime\ Text\ 2/Packages
+ 
+
+### install in linux
+please put cloned packages in ${HOME}/.config/sublime-text-2/Packages/
+
